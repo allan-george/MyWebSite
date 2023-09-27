@@ -5,3 +5,4 @@ Adding to bottom by u2
 Introduce merge conflict by U2
 Introduce merge conflict here by u1
 Doing rebase conflict u2
+modify existing file for git stash 
