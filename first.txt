@@ -2,3 +2,4 @@ Adding to top of the line by u1
 This is first file
 New line added by U1
 Adding to bottom by u2
+Introduce merge conflict by U2
